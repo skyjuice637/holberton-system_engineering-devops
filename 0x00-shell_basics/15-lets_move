@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --preserve=uppercase * /tmp/u
+cp --preserve=*uppercase /tmp/u
