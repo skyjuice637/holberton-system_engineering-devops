@@ -1,0 +1,1 @@
+# This README covers the Projects created in 0x02 Shell Redirections and Filters
